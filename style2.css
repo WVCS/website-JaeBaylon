@@ -1,0 +1,27 @@
+body{
+  background-color: #edede9;
+}
+
+h2{
+  color:#6c757d;
+  font-size: 20px;
+  font-family: "Verdana", Sans-serif;
+  margin-top: 50px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+ p{
+  color:#27187E;
+  font-size: 70px;
+  font-family: "Copperplate", Fantasy;
+  text-shadow: 3px 3px 6px #FF8600;
+}
+img{
+    border-style: solid;
+    border-color:#27187E;
+    border-width:30px;
+}
+ul{
+  list-style-type:none;
+  text-align: center;
+  font-size: 20px;
